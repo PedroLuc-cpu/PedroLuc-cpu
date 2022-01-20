@@ -1,6 +1,6 @@
-<p>##;👾🤓 Olá, me chamo Pedro Lucas</p>
-<p>🖥📚Sou Estudante de Front-End Develop, mas  já faço sites intermédiario.😎😎</p>
-<p>✔⚙💰 Sou Criativo e adoro ler livros de Programação e empreendedorismo</p></br></br>
+<p><i>##👾🤓 Olá, me chamo Pedro Lucas/<i></p>
+<p>🖥📚<i>Sou Estudante de Front-End Develop, mas  já faço sites intermédiario.😎😎</i></p>
+<p>✔⚙💰 <i>Sou Criativo e adoro ler livros de Programação e empreendedorismo</i></p></br>
 
 <h2>Social Networks:</h2>
 <div> 
