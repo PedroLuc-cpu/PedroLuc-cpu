@@ -1,3 +1,7 @@
+<p>##;👾🤓 Olá, me chamo Pedro Lucas</p></br>
+<p>🖥📚Sou Estudante de Front-End Develop, mas tenho já faço sites intermédiario.😎😎</p></br>
+<p>✔⚙💰 Sou Criativo e adoro ler livros de Programação e empreendedorismo</p></br></br>
+
 <h2>Social Networks:</h2>
 <div> 
   <a href="https://www.instagram.com/pedrolucas_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
