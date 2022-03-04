@@ -19,6 +19,5 @@
 
 </div>
   <div>
- <img src='blob:https://web.whatsapp.com/eb27fc0e-734f-4296-a9e7-15e76f1fc030'>
-
+    <img align="center" alt="" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
 </div>
