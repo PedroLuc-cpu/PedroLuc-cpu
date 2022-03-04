@@ -18,6 +18,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-  <div>
-    <img align="center" alt="" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
+  <h3>Meus Projetos😊✔️</h3>
+  <div style='display:flex; flex-wrap: wrap;'>
+    <img alt="" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
+    <img  alt="CSS" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
+  <img src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(50).png?raw=true">
 </div>
