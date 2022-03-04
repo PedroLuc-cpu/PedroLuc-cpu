@@ -23,16 +23,16 @@
   <figure>
         <img alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
 
-    <p>Clone do site premium do spotify</p>
+    Clone do site premium do spotify
 </figure>
   <figure>
         <img  alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
 
-    <p>Clone do site Iphone</p>
+    Clone do site Iphone
 </figure>
   <figure>
       <img  height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(94).png?raw=true">
 
-    <p>Galeria de jogos</p>
+    Galeria de jogos
 </figure>
 </div>
