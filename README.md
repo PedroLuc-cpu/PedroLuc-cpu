@@ -1,7 +1,7 @@
-<p><i>##👾🤓 Olá, me chamo Pedro Lucas</i></p>
-<p>🖥📚<i>Sou Estudante Front-End Develop😎😎</i></p>
-<p>✔⚙💰 <i>Criativo e adoro ler livros de Programação e empreendedorismo.</i></p></br>
-<p>✔⚙💰 <i>Estou em busca da minha oportunidade de emprego✔️🖥️</i></p></br>
+<p>##👾🤓 Olá, me chamo Pedro Lucas</p>
+<p>🖥📚Sou Estudante Front-End Develop😎😎</p>
+<p>✔Criativo e adoro ler livros de Programação e empreendedorismo.</p>
+<p>Estou em busca da minha oportunidade de emprego✔️🖥️</p>
 
 <h2>Social Networks:</h2>
 <div> 
