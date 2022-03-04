@@ -20,7 +20,7 @@
 </div>
   <h3>Meus Projetos😊✔️</h3>
   <div style='display:flex; flex-wrap: wrap;'>
-    <img alt="" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
-    <img  alt="CSS" height="30" width="40" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
-  <img src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(50).png?raw=true">
+    <img alt="CSS" height="250" width="250" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
+    <img  alt="CSS" height="250" width="250" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
+  <img  height="250" width="250" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(50).png?raw=true">
 </div>
