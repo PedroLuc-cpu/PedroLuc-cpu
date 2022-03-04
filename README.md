@@ -1,6 +1,7 @@
 <p><i>##👾🤓 Olá, me chamo Pedro Lucas</i></p>
-<p>🖥📚<i>Sou Estudante Front-End Develop, mas  já faço sites intermédiario.😎😎</i></p>
+<p>🖥📚<i>Sou Estudante Front-End Develop😎😎</i></p>
 <p>✔⚙💰 <i>Criativo e adoro ler livros de Programação e empreendedorismo.</i></p></br>
+<p>✔⚙💰 <i>Estou em busca da minha oportunidade de emprego✔️🖥️</i></p></br>
 
 <h2>Social Networks:</h2>
 <div> 
@@ -19,9 +20,9 @@
 
 </div>
   <h3>Meus Projetos😊✔️</h3>
-  <div style='display:flex; flex-wrap: wrap; justify-content: space-evenly;'>
+  <div style='display:flex;justify-content: space-evenly;'>
         <img alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
         <img  alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
       <img  height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(94).png?raw=true">
-
+    <h3>veja mais dos meus projeto no meu  Repositories👽</h3>
 </div>
