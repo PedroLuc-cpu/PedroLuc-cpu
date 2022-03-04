@@ -22,5 +22,5 @@
   <div style='display:flex; flex-wrap: wrap;'>
     <img alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/spotify.png?raw=true">
     <img  alt="CSS" height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(80).png?raw=true">
-  <img  height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(50).png?raw=true">
+  <img  height="300" width="300" src="https://github.com/PedroLuc-cpu/Imagem/blob/main/Projetos/Captura%20de%20Tela%20(94).png?raw=true">
 </div>
