@@ -18,4 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-  
+  <div>
+ <img src='blob:https://web.whatsapp.com/eb27fc0e-734f-4296-a9e7-15e76f1fc030'>
+
+</div>
