@@ -1,4 +1,4 @@
-## Front-End Develop and studying Back-End🧙
+## Full Stack Developer🧙
 
 ### Social:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-5381b3212/)
