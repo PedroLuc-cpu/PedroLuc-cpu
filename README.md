@@ -1,6 +1,6 @@
 ## Full Stack Developer 🧙‍♂️ | JavaScript | TypeScript | React | Next.js | Node.js | PostgreSQL | C# | ASP.NET Core
 
-### Social:
+### Conecte-se comigo:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-5381b3212/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gemaluzente2015@gmail.com)
 
