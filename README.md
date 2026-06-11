@@ -1,5 +1,4 @@
-## Hi, I'm Pedro Lucas!
-
+## Backend Engineer • .NET • Clean Architecture • DDD
 <div align="center">
 
 [![](https://raw.githubusercontent.com/PedroLuc-cpu/PedroLuc-cpu/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
